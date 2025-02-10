@@ -1,3 +1,5 @@
+//Elizabeth Ramdeo JS script for tictactoe
+
 let boxes = document.querySelectorAll('.box');
 let resetBtn = document.querySelector('#reset');
 let playerX= true;
